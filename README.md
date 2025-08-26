@@ -24,7 +24,7 @@
 - **Backend:** Java 17, Spring Boot 3.5.4  
 - **Data:** Spring Data JPA, H2 Database
 - **Validation & Security:** Jakarta Bean Validation  
-- **Build Tool:** Maven  
+- **Build Tool:** Gradle  
 
 ---
 
