@@ -35,7 +35,7 @@ Follow these steps to run the system locally.
 ### Prerequisites
 
 - **JDK 17** or higher  
-- **Maven**  
+- **Gradle**  
 
 ### 1. Clone the repository
 
